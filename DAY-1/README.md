@@ -63,7 +63,7 @@ kubectl exec -it <pod-name> -- bash
 - Started a Jupyter Lab server inside the pod.
 
 ```bash
-jupyter lab --NotebookApp.token='1234'
+jupyter lab --NotebookApp.token='password'
 ```
 
 - Accessed the Jupyter interface through the URL provided by the mentors.

@@ -62,10 +62,26 @@ The internship focuses on Kubernetes, cloud-native environments, Machine Learnin
 
 * MobileNetV2 achieved the best performance on both datasets.
 
-### Day 5
+### Day 5 - Full Stack Development and AI-Assisted Web Development
+
+* Learned the fundamentals of Full Stack Development and the complete software development lifecycle.
+* Discussed the stages involved in building an application, including:
+
+  * Requirement Gathering
+  * Design and Development
+  * Testing
+  * Deployment
+  * Maintenance
+* Received an introduction to CI/CD (Continuous Integration and Continuous Deployment) concepts and their role in modern software development.
+* Learned the basics of Prompt Engineering and how prompts can be used to effectively interact with AI-powered development tools.
+* Explored the AI-assisted development tool **Antigravity IDE**.
+* Built a simple portfolio website using natural language prompts in Antigravity IDE.
+* Learned how AI can accelerate frontend development by generating code from user requirements.
+* Installed and configured Node.js for running web applications locally.
+* Executed and viewed the generated portfolio website using Node.js.
+* Gained practical exposure to AI-assisted web development workflows and modern development tools.
+
+### Day 6
 
 *To be updated.*
 
----
-
-🚀 Internship in Progress

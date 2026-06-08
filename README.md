@@ -81,7 +81,12 @@ The internship focuses on Kubernetes, cloud-native environments, Machine Learnin
 * Executed and viewed the generated portfolio website using Node.js.
 * Gained practical exposure to AI-assisted web development workflows and modern development tools.
 
-### Day 6
+### Day 6 - Transformers and Generative AI
 
-*To be updated.*
-
+- Learned the fundamentals of Transformer architecture.
+- Explored Word Embeddings and Tokenization techniques.
+- Understood how modern NLP models process text.
+- Used Groq APIs for Text-to-Speech and Text-to-Image generation.
+- Performed benchmarking on BERT and GPT models.
+- Compared the performance of Groq and Gemini models across different tasks.
+- Gained practical experience with Generative AI workflows and model evaluation.

@@ -90,3 +90,14 @@ The internship focuses on Kubernetes, cloud-native environments, Machine Learnin
 - Performed benchmarking on BERT and GPT models.
 - Compared the performance of Groq and Gemini models across different tasks.
 - Gained practical experience with Generative AI workflows and model evaluation.
+
+### Day 7 - Hugging Face Transformers and LoRA Fine-Tuning
+
+* Explored the Hugging Face Transformers ecosystem and worked with pretrained NLP models such as BERT and DistilGPT2.
+* Learned tokenization, attention masks, embeddings, and text representation techniques.
+* Implemented multiple NLP pipelines including text generation, sentiment analysis, translation, summarization, and feature extraction.
+* Studied Parameter Efficient Fine-Tuning (PEFT) and Low-Rank Adaptation (LoRA) as efficient alternatives to full model fine-tuning.
+* Built a complete LoRA fine-tuning workflow including dataset preparation, tokenization, training, adapter saving, and inference.
+* Conducted benchmarking experiments across multiple LoRA configurations and analyzed training time, GPU memory usage, training loss, and model performance.
+* Resolved practical GPU and environment issues related to PyTorch, CUDA, PEFT, and dependency compatibility.
+* Gained hands-on experience with modern LLM adaptation techniques using Hugging Face, PEFT, and GPU-based training environments.

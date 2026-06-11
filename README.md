@@ -113,6 +113,12 @@ The internship focuses on Kubernetes, cloud-native environments, Machine Learnin
 * Compared GANs and Diffusion Models, including their strengths, limitations, and suitable use cases.
 * Gained practical knowledge of modern image generation techniques used in Generative AI applications.
 
-### Day 9
+### Day 9 - Computer Vision with Roboflow
 
-*To be updated.*
+- Learned the fundamentals of Computer Vision workflows using Roboflow.
+- Prepared and managed a Cats vs Dogs image dataset.
+- Trained an image classification model on the Roboflow platform.
+- Evaluated model performance using sample images.
+- Performed image prediction and analyzed confidence scores.
+- Integrated Roboflow models with Python using the Roboflow SDK.
+- Retrieved prediction results through API-based inference workflows.
